@@ -1,6 +1,6 @@
 ## Hey, I am Scarlett! 👋
 
-I am a data analyst with a strong background in marketing analytics and business intelligence. Currently, I'm pursuing a Master's in Management Analytics (MMA7) at McGill University, and I am passionate about utilizing data-driven insights to solve business problems. 
+I am a data analyst with a strong background in marketing analytics and business intelligence. Currently, I'm pursuing a Master's in Management Analytics (MMA7) at McGill University, and I am passionate about utilizing data-driven insights and open communication to solve business problems. 
 
 🔧 Skills
 
@@ -14,23 +14,23 @@ Core Competencies: Machine Learning (Supervised and Unsupervised); Data Mining a
 
 -Master of Management in Analytics (MMA7)
 
-McGill University, Desautels Faculty of Management, Montreal, Canada
+McGill University, Desautels Faculty of Management
 
 -Bachelor of Science in Business and Finance, Concentration in Business Analytics
 
-New York University, Shanghai, China (Study abroad at NYU Stern and NYU Paris in 2023)
+New York University Shanghai (Studied abroad at NYU Stern and NYU Paris)
 
 🌍 Languages
 
 
-English: Fluent|Mandarin: Fluent|French: Basic
+English: Fluent| Mandarin: Fluent| French: Basic
 
 📸 Interests
 
 Traveled in 12 countries; 
 Chinese Zither V8;
-Bouldering V3; 
-Chinese Dance 10 Years; 
+Indoor Bouldering V4; 
+Traditional Chinese Dance 10 Years; 
 Photography; Hiking; Fashion; 
 
 
