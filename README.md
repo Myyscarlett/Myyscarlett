@@ -23,11 +23,7 @@ New York University, Shanghai, China (Study abroad at NYU Stern and NYU Paris in
 🌍 Languages
 
 
-English: Fluent
-
-Mandarin: Fluent
-
-French: Basic
+English: Fluent|Mandarin: Fluent|French: Basic
 
 📸 Interests
 
