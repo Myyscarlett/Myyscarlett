@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi people, I am Scarlett! 👋
 
-<!--
-**Myyscarlett/Myyscarlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analyst with a strong background in marketing analytics and business intelligence. Currently, I'm pursuing a Master's in Management Analytics (MMA7) at McGill University, and I am passionate about utilizing data-driven insights to solve business problems. 
 
-Here are some ideas to get you started:
+🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Python, SQL, R, SAS
+
+Tools: Power BI, Tableau, Stata, P5.js
+
+Core Competencies: Machine Learning (Supervised and Unsupervised); Data Mining and Visualization; Predictive Modeling; Database Management; Financial and Marketing Data Analysis; Text and Social Media Analysis
+
+📚 Education
+
+-Master of Management in Analytics (MMA7)
+
+McGill University, Desautels Faculty of Management, Montreal, Canada
+
+-Bachelor of Science in Business and Finance, Concentration in Business Analytics
+
+New York University, Shanghai, China (Study abroad at NYU Stern and NYU Paris in 2023)
+
+🌍 Languages
+
+
+English: Fluent
+
+Mandarin: Fluent
+
+French: Basic
+
+📸 Interests
+
+Traveled in 12 countries; 
+Chinese Zither V8;
+Bouldering V3; 
+Chinese Dance 10 Years; 
+Photography; Hiking; Fashion; 
+
+
