@@ -1,4 +1,4 @@
-## Hi people, I am Scarlett! 👋
+## Hey, I am Scarlett! 👋
 
 I am a data analyst with a strong background in marketing analytics and business intelligence. Currently, I'm pursuing a Master's in Management Analytics (MMA7) at McGill University, and I am passionate about utilizing data-driven insights to solve business problems. 
 
